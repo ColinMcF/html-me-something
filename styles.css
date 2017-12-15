@@ -32,9 +32,13 @@ img {
 }
 
 #background {
-    background-color: grey;
+    background-color: lightblue;
 }
 
 .beginning {
     font-weight bold;
+}
+
+.disclamer {
+    font-size: 8px;
 }
