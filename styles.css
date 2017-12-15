@@ -31,6 +31,10 @@ img {
     margin: 0 auto;
 }
 
-html {
+#background {
     background-color: grey;
+}
+
+.beginning {
+    font-weight bold;
 }
